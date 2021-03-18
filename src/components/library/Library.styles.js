@@ -37,6 +37,7 @@ export const SongContainer = styled.div`
   display: flex;
   flex-direction: column;
   background-color: white;
+  cursor: pointer;
 `;
 
 export const Header = styled.h2`
